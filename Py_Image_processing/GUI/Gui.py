@@ -1,6 +1,5 @@
 import streamlit  as st
 import numpy as n
-from streamlit_elements import elements
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
