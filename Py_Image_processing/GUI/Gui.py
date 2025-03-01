@@ -1,6 +1,4 @@
 import streamlit  as st
-from skimage.io import imread
-from skimage.color import rgb2gray
 import numpy as n
 from st_aggrid import AgGrid
 from streamlit_elements import elements
